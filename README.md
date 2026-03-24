@@ -1,15 +1,18 @@
 # Healthcare Data Analysis (NHANES Dataset)
 
 ## 📊 Overview
-This project analyzes healthcare data from the NHANES dataset using Excel to uncover insights on BMI and cholesterol across gender groups.
+This project analyzes real-world healthcare data from the NHANES dataset to uncover insights into body mass index (BMI) and cholesterol levels across different gender groups.
+
+The analysis demonstrates a complete data workflow — from raw data cleaning to interactive dashboard creation using Microsoft Excel.
 
 ---
 
 ## 🎯 Objectives
-- Analyze BMI and cholesterol trends
-- Compare health indicators by gender
-- Build an interactive Excel dashboard
-- Demonstrate data cleaning and analysis skills
+- Clean and prepare raw healthcare datasets  
+- Merge multiple datasets using unique identifiers (SEQN)  
+- Analyze BMI and cholesterol trends  
+- Compare health indicators across gender  
+- Build an interactive dashboard using slicers 
 
 ---
 
